@@ -1,4 +1,3 @@
-// script.js
 function clearDisplay() {
     document.getElementById('display').innerText = '';
 }
